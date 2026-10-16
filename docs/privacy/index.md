@@ -88,7 +88,7 @@ immediately and permanently.
 ## 6. Your choices and rights
 
 - **Delete everything:** Settings > Account and backup > **Delete my account and data**. Without
-  the app, see <https://slimredtech.github.io/hifz/delete-account/>.
+  the app, see <https://slimredtech.github.io/hifz-docs/delete-account/>.
 - **Export your data:** Settings > Account and backup > Export a backup file (a JSON file you keep).
 - **Stop sharing** with a teacher or partner at any time.
 - **Notifications:** you can turn the reminder off in Settings or in Android settings.
@@ -111,4 +111,4 @@ the app.
 
 ## 9. Contact
 
-beyapps – **[CONTACT EMAIL]**
+beyapps – [nacer.bey7@gmail.com](mailto:nacer.bey7@gmail.com) (questions, data requests, feedback)
