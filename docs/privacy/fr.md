@@ -94,7 +94,7 @@ section 1 est supprimé de notre serveur immédiatement et définitivement.
 ## 6. Vos choix et vos droits
 
 - **Tout supprimer :** Réglages > Compte et sauvegarde > **Supprimer mon compte et mes données**.
-  Sans l'application : <https://slimredtech.github.io/hifz/delete-account/>.
+  Sans l'application : <https://slimredtech.github.io/hifz-docs/delete-account/>.
 - **Exporter vos données :** Réglages > Compte et sauvegarde > Exporter une sauvegarde (un fichier
   JSON que vous conservez).
 - **Arrêter le partage** avec un enseignant ou un partenaire à tout moment.
@@ -120,4 +120,4 @@ importants, vous en informerons dans l'application.
 
 ## 9. Contact
 
-beyapps – **[ADRESSE DE CONTACT]**
+beyapps – [nacer.bey7@gmail.com](mailto:nacer.bey7@gmail.com) (questions, demandes sur vos données, remarques)
