@@ -83,7 +83,7 @@ RevenueCat: <https://www.revenuecat.com/privacy>.
 ## 6. خياراتك وحقوقك
 
 - **حذف كل شيء:** الإعدادات > الحساب والنسخ الاحتياطي > **حذف حسابي وبياناتي**. وبدون التطبيق:
-  <https://slimredtech.github.io/hifz/delete-account/>.
+  <https://slimredtech.github.io/hifz-docs/delete-account/>.
 - **تصدير بياناتك:** الإعدادات > الحساب والنسخ الاحتياطي > تصدير ملف نسخة احتياطية (ملف JSON تحتفظ به).
 - **إيقاف المشاركة** مع معلّم أو رفيق في أي وقت.
 - **الإشعارات:** أوقف التذكير من الإعدادات أو من إعدادات Android.
@@ -103,6 +103,6 @@ RevenueCat: <https://www.revenuecat.com/privacy>.
 
 ## 9. التواصل
 
-beyapps – **[عنوان البريد]**
+beyapps – [nacer.bey7@gmail.com](mailto:nacer.bey7@gmail.com) (للأسئلة وطلبات البيانات والملاحظات)
 
 </div>
