@@ -1,0 +1,18 @@
+# GitHub Pages (Settings > Pages > branch main, folder /docs). Only the public pages are
+# published: the privacy policy, the account-deletion page and this index.
+title: Hifz Planner
+description: Quran memorization planner
+theme: jekyll-theme-minimal
+exclude:
+  - app-content.md
+  - cities.md
+  - data-safety.md
+  - decisions.md
+  - dependencies.md
+  - qa-checklist.md
+  - qa-notes.md
+  - quran-data.md
+  - release-checklist.md
+  - runbook.md
+  - store-listing.md
+  - tester-briefing.md
