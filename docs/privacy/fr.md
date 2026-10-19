@@ -8,7 +8,7 @@ lang: fr
 
 [English](../) · **Français** · [العربية](../ar/)
 
-_Dernière mise à jour : 16 octobre 2026_
+_Dernière mise à jour : 19 octobre 2026_
 
 Hifz Planner (« خطة الحفظ », « l'application ») vous aide à planifier et réviser votre
 mémorisation du Coran. Elle est développée par beyapps (« nous »). Cette politique explique
@@ -50,6 +50,26 @@ Les paiements sont entièrement gérés par **Google Play** ; nous ne voyons jam
 bancaires. Nous utilisons **RevenueCat** pour vérifier vos achats. Il reçoit votre identifiant de
 compte aléatoire et votre historique d'achats (produit, dates, prix, pays/devise). Politique de
 RevenueCat : <https://www.revenuecat.com/privacy>.
+
+### Pages du mushaf (GitHub)
+
+Les pages du mushaf sont téléchargées depuis **GitHub**, qui héberge une copie publique des polices
+des pages, quand vous choisissez de les télécharger ou la première fois que vous ouvrez une page.
+Comme tout site web, GitHub reçoit votre adresse IP et le nom du fichier demandé. L'application
+n'envoie rien d'autre : ni identifiant de compte, ni donnée personnelle. Déclaration de
+confidentialité de GitHub : <https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement>.
+
+### Récitations du Coran (Tarteel et QuranicAudio)
+
+Quand vous écoutez une récitation dans le lecteur, ou que vous la téléchargez pour l'écouter hors
+ligne, l'audio provient des serveurs qui la publient : **Tarteel** (`audio-cdn.tarteel.ai`, pour
+Mahmoud Khalil Al-Husary et Mishary Rashid Alafasy) et **QuranicAudio**
+(`download.quranicaudio.com`, pour Maher Al-Muaiqly). Comme tout site web, ils reçoivent votre
+adresse IP et le nom du fichier demandé. L'application n'envoie rien d'autre : ni identifiant de
+compte, ni donnée personnelle. Les récitations téléchargées restent sur votre téléphone et ne font
+pas partie de vos sauvegardes ; vous pouvez les supprimer dans Paramètres > Récitations hors ligne.
+Politiques de confidentialité : Tarteel <https://tarteel.ai/privacy>, QuranicAudio
+<https://quranicaudio.com/privacy.html>.
 
 ## 2. Qui peut voir vos données
 
