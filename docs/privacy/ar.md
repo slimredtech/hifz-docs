@@ -10,7 +10,7 @@ lang: ar
 
 [English](../) · [Français](../fr/) · **العربية**
 
-_آخر تحديث: 19 أكتوبر 2026_
+_آخر تحديث: 20 أكتوبر 2026_
 
 يساعدك تطبيق «خطة الحفظ» (Hifz Planner) على تنظيم حفظك للقرآن الكريم ومراجعته، وهو من تطوير beyapps
 («نحن»). توضّح هذه السياسة البيانات التي يستخدمها التطبيق، ولماذا، وأين تُحفظ، ومن يمكنه رؤيتها، وكيف
@@ -53,14 +53,16 @@ RevenueCat: <https://www.revenuecat.com/privacy>.
 فتح الصفحة أول مرة. وكأي موقع إلكتروني، يتلقّى GitHub عنوان IP الخاص بك واسم الملف المطلوب. لا يرسل التطبيق
 شيئًا آخر: لا معرّف حساب ولا أي بيانات شخصية. بيان الخصوصية لدى GitHub: <https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement>.
 
-### تلاوات القرآن (Tarteel وQuranicAudio)
+### تلاوات القرآن (Tarteel وQuranicAudio وEveryAyah)
 
 عندما تستمع إلى تلاوة في القارئ، أو تنزّلها للاستماع دون اتصال، يأتي الصوت من الخوادم التي تنشرها:
 **Tarteel** (`audio-cdn.tarteel.ai`، لتلاوتَي محمود خليل الحصري ومشاري راشد العفاسي) و**QuranicAudio**
-(`download.quranicaudio.com`، لتلاوة ماهر المعيقلي). وكأي موقع إلكتروني، تتلقّى هذه الخوادم عنوان IP
+(`download.quranicaudio.com`، لتلاوة ماهر المعيقلي) و**EveryAyah** (`everyayah.com`، لتلاوتَي ياسين الجزائري
+وإبراهيم الدوسري برواية ورش). وكأي موقع إلكتروني، تتلقّى هذه الخوادم عنوان IP
 الخاص بك واسم الملف المطلوب. لا يرسل التطبيق شيئًا آخر: لا معرّف حساب ولا أي بيانات شخصية. تبقى التلاوات
 المنزّلة على هاتفك ولا تدخل في نسخك الاحتياطية، ويمكنك حذفها من الإعدادات > التلاوات دون اتصال. سياسات
-الخصوصية: Tarteel <https://tarteel.ai/privacy>، وQuranicAudio <https://quranicaudio.com/privacy.html>.
+الخصوصية: Tarteel <https://tarteel.ai/privacy>، وQuranicAudio <https://quranicaudio.com/privacy.html>؛ ولا ينشر
+EveryAyah سياسة خصوصية.
 
 ## 2. من يمكنه رؤية بياناتك
 
