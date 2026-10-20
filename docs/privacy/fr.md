@@ -8,7 +8,7 @@ lang: fr
 
 [English](../) · **Français** · [العربية](../ar/)
 
-_Dernière mise à jour : 19 octobre 2026_
+_Dernière mise à jour : 20 octobre 2026_
 
 Hifz Planner (« خطة الحفظ », « l'application ») vous aide à planifier et réviser votre
 mémorisation du Coran. Elle est développée par beyapps (« nous »). Cette politique explique
@@ -59,17 +59,18 @@ Comme tout site web, GitHub reçoit votre adresse IP et le nom du fichier demand
 n'envoie rien d'autre : ni identifiant de compte, ni donnée personnelle. Déclaration de
 confidentialité de GitHub : <https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement>.
 
-### Récitations du Coran (Tarteel et QuranicAudio)
+### Récitations du Coran (Tarteel, QuranicAudio et EveryAyah)
 
 Quand vous écoutez une récitation dans le lecteur, ou que vous la téléchargez pour l'écouter hors
 ligne, l'audio provient des serveurs qui la publient : **Tarteel** (`audio-cdn.tarteel.ai`, pour
-Mahmoud Khalil Al-Husary et Mishary Rashid Alafasy) et **QuranicAudio**
-(`download.quranicaudio.com`, pour Maher Al-Muaiqly). Comme tout site web, ils reçoivent votre
+Mahmoud Khalil Al-Husary et Mishary Rashid Alafasy), **QuranicAudio**
+(`download.quranicaudio.com`, pour Maher Al-Muaiqly) et **EveryAyah** (`everyayah.com`, pour les
+récitations en Warsh de Yassin Al-Jazaery et Ibrahim Al-Dosary). Comme tout site web, ils reçoivent votre
 adresse IP et le nom du fichier demandé. L'application n'envoie rien d'autre : ni identifiant de
 compte, ni donnée personnelle. Les récitations téléchargées restent sur votre téléphone et ne font
 pas partie de vos sauvegardes ; vous pouvez les supprimer dans Paramètres > Récitations hors ligne.
 Politiques de confidentialité : Tarteel <https://tarteel.ai/privacy>, QuranicAudio
-<https://quranicaudio.com/privacy.html>.
+<https://quranicaudio.com/privacy.html> ; EveryAyah n'en publie pas.
 
 ## 2. Qui peut voir vos données
 
