@@ -22,21 +22,28 @@ advertising SDK in the app.
 
 ### Stored on our server (Supabase)
 
-| Data                                 | What it is                                                                                                       | Why                                                                                     |
-| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Account identifier                   | A random ID created on first launch (anonymous account). It contains no personal information.                    | To back up and sync your progress                                                       |
-| Google account (only if you link it) | Your email address and the basic profile Google provides (name, profile picture link), and the Google account ID | To sign you in on another phone; the app shows only the email                           |
-| Memorization progress                | For each page: whether it is memorized, when, its review schedule and your last rating                           | To plan your daily reviews                                                              |
-| Review history                       | The page, date, type and rating (Good / Hard / Forgot) of each review                                            | Scheduling, streak and statistics                                                       |
-| Settings                             | Daily targets, memorization direction, streak, and the prayer or time chosen for your reminder                   | So your settings follow you to a new phone                                              |
-| Activity days                        | The days you used the app, the number of reviews and whether the day's plan was completed                        | Streak across phones; to measure, in aggregate, whether the app helps people keep going |
-| Display name (optional)              | A name you may choose for teachers and partners (40 characters at most)                                          | Shown only to people you link with                                                      |
-| Teacher and partner links (optional) | Who you are linked with, invite codes, weekly assignments (pages and a note of up to 140 characters)             | Teacher mode and accountability partner                                                 |
-| Premium status                       | Whether Premium is active, the product and its expiry date                                                       | To unlock Premium features                                                              |
+| Data                                 | What it is                                                                                                                    | Why                                                                                     |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Account identifier                   | A random ID created on first launch (anonymous account). It contains no personal information.                                 | To back up and sync your progress                                                       |
+| Google account (only if you link it) | Your email address and the basic profile Google provides (name, profile picture link), and the Google account ID              | To sign you in on another phone; the app shows only the email                           |
+| Memorization progress                | For each page: whether it is memorized, when, its review schedule and your last rating                                        | To plan your daily reviews                                                              |
+| Review history                       | The page, date, type and rating (Good / Hard / Forgot) of each review                                                         | Scheduling, streak and statistics                                                       |
+| Settings                             | Daily targets, memorization direction, streak, the prayer or time chosen for your reminder, and which adhkar reminders are on | So your settings follow you to a new phone                                              |
+| Activity days                        | The days you used the app, the number of reviews and whether the day's plan was completed                                     | Streak across phones; to measure, in aggregate, whether the app helps people keep going |
+| Display name (optional)              | A name you may choose for teachers and partners (40 characters at most)                                                       | Shown only to people you link with                                                      |
+| Teacher and partner links (optional) | Who you are linked with, invite codes, weekly assignments (pages and a note of up to 140 characters)                          | Teacher mode and accountability partner                                                 |
+| Group khatm (optional)               | The groups you create or join (a group name of up to 40 characters, its code), and which juz you took and read                | To read the Quran together                                                              |
+| Premium status                       | Whether Premium is active, the product and its expiry date                                                                    | To unlock Premium features                                                              |
 
-**Stays on your phone only:** the city or coordinates of your reminder, your language, theme and
-display options, backup files you export, and your scheduled notifications. Prayer times are
-calculated on the phone.
+**Stays on your phone only:** the city or coordinates you choose for prayer times and reminders,
+your language, theme and display options, your adhkar counts, your Ramadan khatm, fasting log and Ramadan reminders, backup files you export, and your scheduled
+notifications. Prayer times are calculated on the phone.
+
+**Your location (optional):** if you tap "Use my location", the app asks Android for your
+approximate location once, on the phone, to find the nearest city. Only that city (or, far from
+any listed city, coordinates rounded to about a kilometre) is kept, on the phone; your location is
+never sent to us or to anyone else. The app cannot read your precise location or your location in
+the background.
 
 **Technical data:** like any online service, our hosting provider processes your IP address and
 request logs to deliver and protect the service. We do not use them to identify you or to work
@@ -78,6 +85,9 @@ recitations. Privacy policies: Tarteel <https://tarteel.ai/privacy>, QuranicAudi
   (Settings > Premium and sharing > Teacher and partner); access ends immediately.
 - **Your accountability partner**, only if you link with one: your display name, your streak,
   whether today is done, and your last active day. Never your pages, reviews or email.
+- **The members of a group khatm**, only for the groups you create or join: the group, who took
+  and read each juz, and the members' display names. Never anything else. Leaving the group
+  removes you from it.
 - **Service providers** that process data for us: Supabase (database and sign-in, servers in Ireland,
   European Union), RevenueCat (purchase status) and Google (sign-in and payments). They may use it
   only to provide their service to us.
