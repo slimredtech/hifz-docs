@@ -23,21 +23,29 @@ SDK d'analyse ou de publicité dans l'application.
 
 ### Stockées sur notre serveur (Supabase)
 
-| Donnée                                      | Ce que c'est                                                                                                        | Pourquoi                                                                                       |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Identifiant de compte                       | Un identifiant aléatoire créé au premier lancement (compte anonyme), sans information personnelle                   | Sauvegarder et synchroniser votre progression                                                  |
-| Compte Google (seulement si vous le liez)   | Votre adresse e-mail, le profil de base fourni par Google (nom, lien de la photo) et l'identifiant du compte Google | Vous connecter sur un autre téléphone ; l'application n'affiche que l'e-mail                   |
-| Progression                                 | Pour chaque page : mémorisée ou non, depuis quand, son calendrier de révision et votre dernière note                | Planifier vos révisions quotidiennes                                                           |
-| Historique des révisions                    | La page, la date, le type et la note (Bien / Difficile / Oublié) de chaque révision                                 | Calendrier, série et statistiques                                                              |
-| Réglages                                    | Objectifs quotidiens, sens de mémorisation, série, et la prière ou l'heure choisie pour le rappel                   | Retrouver vos réglages sur un nouveau téléphone                                                |
-| Jours d'activité                            | Les jours d'utilisation, le nombre de révisions et si le programme du jour a été terminé                            | Série sur plusieurs téléphones ; mesurer, de façon agrégée, si l'application aide à persévérer |
-| Nom affiché (facultatif)                    | Un nom que vous pouvez choisir pour vos enseignants et partenaires (40 caractères au plus)                          | Visible uniquement par les personnes liées                                                     |
-| Liens enseignant et partenaire (facultatif) | Avec qui vous êtes lié, codes d'invitation, objectifs de la semaine (pages et une note de 140 caractères au plus)   | Mode enseignant et partenaire de motivation                                                    |
-| Statut Premium                              | Premium actif ou non, le produit et sa date d'expiration                                                            | Débloquer les fonctions Premium                                                                |
+| Donnée                                      | Ce que c'est                                                                                                                    | Pourquoi                                                                                       |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Identifiant de compte                       | Un identifiant aléatoire créé au premier lancement (compte anonyme), sans information personnelle                               | Sauvegarder et synchroniser votre progression                                                  |
+| Compte Google (seulement si vous le liez)   | Votre adresse e-mail, le profil de base fourni par Google (nom, lien de la photo) et l'identifiant du compte Google             | Vous connecter sur un autre téléphone ; l'application n'affiche que l'e-mail                   |
+| Progression                                 | Pour chaque page : mémorisée ou non, depuis quand, son calendrier de révision et votre dernière note                            | Planifier vos révisions quotidiennes                                                           |
+| Historique des révisions                    | La page, la date, le type et la note (Bien / Difficile / Oublié) de chaque révision                                             | Calendrier, série et statistiques                                                              |
+| Réglages                                    | Objectifs quotidiens, sens de mémorisation, série, la prière ou l'heure choisie pour le rappel, et les rappels d'adhkar activés | Retrouver vos réglages sur un nouveau téléphone                                                |
+| Jours d'activité                            | Les jours d'utilisation, le nombre de révisions et si le programme du jour a été terminé                                        | Série sur plusieurs téléphones ; mesurer, de façon agrégée, si l'application aide à persévérer |
+| Nom affiché (facultatif)                    | Un nom que vous pouvez choisir pour vos enseignants et partenaires (40 caractères au plus)                                      | Visible uniquement par les personnes liées                                                     |
+| Liens enseignant et partenaire (facultatif) | Avec qui vous êtes lié, codes d'invitation, objectifs de la semaine (pages et une note de 140 caractères au plus)               | Mode enseignant et partenaire de motivation                                                    |
+| Khatm en groupe (facultatif)                | Les groupes que vous créez ou rejoignez (un nom de groupe de 40 caractères au plus, son code), et les juz pris et lus           | Lire le Coran ensemble                                                                         |
+| Statut Premium                              | Premium actif ou non, le produit et sa date d'expiration                                                                        | Débloquer les fonctions Premium                                                                |
 
-**Restent uniquement sur votre téléphone :** la ville ou les coordonnées de votre rappel, la
-langue, le thème et les options d'affichage, les fichiers de sauvegarde que vous exportez et les
-notifications programmées. Les heures de prière sont calculées sur le téléphone.
+**Restent uniquement sur votre téléphone :** la ville ou les coordonnées choisies pour les
+horaires de prière et les rappels, la langue, le thème et les options d'affichage, vos compteurs d'adhkar, votre khatm, votre journal des jeûnes et vos rappels du Ramadan, les fichiers de
+sauvegarde que vous exportez et les notifications programmées. Les heures de prière sont calculées
+sur le téléphone.
+
+**Votre position (facultatif) :** si vous touchez « Utiliser ma position », l'application demande
+une fois à Android votre position approximative, sur le téléphone, pour trouver la ville la plus
+proche. Seule cette ville (ou, loin de toute ville de la liste, des coordonnées arrondies à environ
+un kilomètre) est conservée, sur le téléphone ; votre position n'est jamais envoyée, ni à nous ni à
+personne. L'application ne peut lire ni votre position précise ni votre position en arrière-plan.
 
 **Données techniques :** comme tout service en ligne, notre hébergeur traite votre adresse IP et
 les journaux de requêtes pour fournir et protéger le service. Nous ne les utilisons ni pour vous
@@ -82,6 +90,9 @@ Politiques de confidentialité : Tarteel <https://tarteel.ai/privacy>, QuranicAu
   partenaire) ; l'accès cesse immédiatement.
 - **Votre partenaire de motivation**, seulement si vous vous liez : votre nom affiché, votre série,
   si la journée est faite et votre dernier jour actif. Jamais vos pages, révisions ni e-mail.
+- **Les membres d'un khatm en groupe**, seulement pour les groupes que vous créez ou rejoignez : le
+  groupe, qui a pris et lu chaque juz, et le nom affiché des membres. Rien d'autre. Quitter le
+  groupe vous en retire.
 - **Les prestataires** qui traitent les données pour nous : Supabase (base de données et
   connexion, serveurs en Irlande, Union européenne), RevenueCat (statut des achats) et Google
   (connexion et paiements). Ils ne peuvent les utiliser que pour nous fournir leur service.
