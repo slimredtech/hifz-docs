@@ -1,5 +1,5 @@
 ---
-title: Hifz Planner – Politique de confidentialité
+title: Wird – Politique de confidentialité
 permalink: /privacy/fr/
 lang: fr
 ---
@@ -8,10 +8,11 @@ lang: fr
 
 [English](../) · **Français** · [العربية](../ar/)
 
-_Dernière mise à jour : 20 octobre 2026_
+_Dernière mise à jour : 25 octobre 2026_
 
-Hifz Planner (« خطة الحفظ », « l'application ») vous aide à planifier et réviser votre
-mémorisation du Coran. Elle est développée par beyapps (« nous »). Cette politique explique
+Wird (« وِرد », anciennement Hifz Planner, « l'application ») est un compagnon quotidien pour
+les musulmans : mémorisation et révision du Coran, horaires de prière, adhkar, mushaf, Ramadan et
+khatm en groupe. Elle est développée par beyapps (« nous »). Cette politique explique
 quelles données l'application utilise, pourquoi, où elles sont stockées, qui peut les voir et
 comment les supprimer.
 
@@ -132,7 +133,8 @@ section 1 est supprimé de notre serveur immédiatement et définitivement.
 - **Exporter vos données :** Réglages > Compte et sauvegarde > Exporter une sauvegarde (un fichier
   JSON que vous conservez).
 - **Arrêter le partage** avec un enseignant ou un partenaire à tout moment.
-- **Notifications :** désactivez le rappel dans les Réglages ou dans les paramètres Android.
+- **Notifications :** désactivez chaque type dans l'application (révision, prières, adhkar,
+  Ramadan, khatm en groupe) ou dans les paramètres Android, où chacun a son propre canal.
 - Selon votre lieu de résidence (par exemple le RGPD dans l'UE), vous pouvez avoir le droit
   d'accéder à vos données, de les rectifier, de les supprimer ou de les récupérer, et de
   saisir votre autorité de protection des données (en France, la CNIL). Écrivez-nous pour exercer
