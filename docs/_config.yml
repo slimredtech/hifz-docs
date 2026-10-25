@@ -1,9 +1,10 @@
 # GitHub Pages (Settings > Pages > branch main, folder /docs). Only the public pages are
 # published: the privacy policy, the account-deletion page and this index.
-title: Hifz Planner
-description: Quran memorization planner
+title: Wird
+description: A daily Muslim companion for hifz, prayer times, adhkar, the Quran and Ramadan
 theme: jekyll-theme-minimal
 exclude:
+  - adhkar-verification.md
   - app-content.md
   - cities.md
   - data-safety.md
@@ -13,6 +14,7 @@ exclude:
   - qa-notes.md
   - quran-data.md
   - release-checklist.md
+  - roadmap-v2.md
   - runbook.md
   - store-listing.md
   - tester-briefing.md
