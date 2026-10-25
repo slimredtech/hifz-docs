@@ -1,5 +1,5 @@
 ---
-title: Hifz Planner – Delete your account and data
+title: Wird – Delete your account and data
 permalink: /delete-account/
 ---
 
@@ -7,7 +7,7 @@ permalink: /delete-account/
 
 **English** · [Français](#supprimer-votre-compte-et-vos-données) · [العربية](#حذف-حسابك-وبياناتك)
 
-Hifz Planner ("خطة الحفظ") is developed by beyapps.
+Wird ("وِرد", formerly Hifz Planner) is developed by beyapps.
 
 ## In the app (fastest)
 
@@ -24,7 +24,7 @@ nothing is deleted and you can try again.
 
 If you no longer have the app, email **[nacer.bey7@gmail.com](mailto:nacer.bey7@gmail.com)** from the Google address you
 used in the app (or tell us that you never signed in with Google), with the subject "Delete my
-Hifz Planner account". We delete the account and all its data within 30 days and confirm by email.
+Wird account". We delete the account and all its data within 30 days and confirm by email.
 
 ## What is kept
 
@@ -52,7 +52,7 @@ rien n'est supprimé et vous pouvez réessayer.
 
 Écrivez à **[nacer.bey7@gmail.com](mailto:nacer.bey7@gmail.com)** depuis l'adresse Google utilisée dans l'application
 (ou indiquez que vous ne vous êtes jamais connecté avec Google), objet « Supprimer mon compte
-Hifz Planner ». Nous supprimons le compte et toutes ses données sous 30 jours et confirmons par e-mail.
+Wird ». Nous supprimons le compte et toutes ses données sous 30 jours et confirmons par e-mail.
 
 ## Ce qui est conservé
 
@@ -80,7 +80,7 @@ abonnement : annulez-le dans Google Play › Paiements et abonnements.
 ## بدون التطبيق
 
 راسلنا على **[nacer.bey7@gmail.com](mailto:nacer.bey7@gmail.com)** من عنوان Google الذي استخدمته في التطبيق (أو أخبرنا أنك لم تسجّل
-الدخول بـ Google قط)، بعنوان «حذف حسابي في خطة الحفظ». نحذف الحساب وكل بياناته خلال 30 يومًا ونؤكد ذلك بالبريد.
+الدخول بـ Google قط)، بعنوان «حذف حسابي في وِرد». نحذف الحساب وكل بياناته خلال 30 يومًا ونؤكد ذلك بالبريد.
 
 ## ما الذي يُحتفظ به
 
