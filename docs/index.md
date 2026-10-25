@@ -1,10 +1,11 @@
 ---
-title: Hifz Planner – خطة الحفظ
+title: Wird – وِرد
 ---
 
-# Hifz Planner – خطة الحفظ
+# Wird – وِرد
 
-A planner for Quran memorization and revision, for Android.
+A daily Muslim companion for Android: Quran memorization and revision, prayer times, adhkar, the
+mushaf, Ramadan and group khatm. Formerly Hifz Planner.
 
 - Privacy policy: [English](privacy/) · [Français](privacy/fr/) · [العربية](privacy/ar/)
 - [Delete your account and data](delete-account/)
