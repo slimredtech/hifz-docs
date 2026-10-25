@@ -1,5 +1,5 @@
 ---
-title: Hifz Planner – Privacy policy
+title: Wird – Privacy policy
 permalink: /privacy/
 lang: en
 ---
@@ -8,9 +8,10 @@ lang: en
 
 **English** · [Français](fr/) · [العربية](ar/)
 
-_Last updated: 20 October 2026_
+_Last updated: 25 October 2026_
 
-Hifz Planner ("خطة الحفظ", "the app") helps you plan and review your Quran memorization. It is
+Wird ("وِرد", formerly Hifz Planner, "the app") is a daily companion for Muslims: Quran
+memorization and revision, prayer times, adhkar, the mushaf, Ramadan and group khatm. It is
 developed by beyapps ("we"). This policy explains what data the app uses, why, where it is
 stored, who can see it, and how to delete it.
 
@@ -123,7 +124,8 @@ immediately and permanently.
   the app, see <https://slimredtech.github.io/hifz-docs/delete-account/>.
 - **Export your data:** Settings > Account and backup > Export a backup file (a JSON file you keep).
 - **Stop sharing** with a teacher or partner at any time.
-- **Notifications:** you can turn the reminder off in Settings or in Android settings.
+- **Notifications:** you can turn each kind off in the app (revision, prayer times, adhkar,
+  Ramadan, group khatm) or in Android settings, where each has its own channel.
 - Depending on where you live (for example the GDPR in the EU), you may have the right to access,
   correct, delete or move your data, and to complain to your data protection authority. Write to
   us to exercise these rights.
