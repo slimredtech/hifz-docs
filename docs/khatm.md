@@ -1,6 +1,5 @@
-[khatm.md](https://github.com/user-attachments/files/33906310/khatm.md)
 ---
-title: Hifz Planner – Join a group khatm
+title: Wird – Join a group khatm
 permalink: /khatm/
 ---
 
@@ -8,12 +7,12 @@ permalink: /khatm/
 
 **English** · [Français](#rejoindre-un-khatm-en-groupe) · [العربية](#الانضمام-إلى-ختمة-جماعية)
 
-Someone invited you to read the Quran together in **Hifz Planner** ("خطة الحفظ"): each member
+Someone invited you to read the Quran together in **Wird** ("وِرد"): each member
 takes one or more juz, and the group finishes the khatm together.
 
 <p id="code-line" style="display:none">Group code: <strong id="code"></strong></p>
 
-1. Install Hifz Planner from
+1. Install Wird from
    [Google Play](https://play.google.com/store/apps/details?id=com.beyapps.hifzplanner) (free).
 2. <a id="open-link" href="hifzplanner://khatm">Open the invitation in the app</a>, or in the app go
    to **Settings > Group khatm** and enter the code.
@@ -22,10 +21,10 @@ No sign-up is needed. Members see the group, who took which juz, and the name ea
 
 ## Rejoindre un khatm en groupe
 
-On vous invite à lire le Coran ensemble dans **Hifz Planner** : chaque membre prend un ou
+On vous invite à lire le Coran ensemble dans **Wird** : chaque membre prend un ou
 plusieurs juz, et le groupe termine le khatm ensemble.
 
-1. Installez Hifz Planner depuis
+1. Installez Wird depuis
    [Google Play](https://play.google.com/store/apps/details?id=com.beyapps.hifzplanner) (gratuit).
 2. Ouvrez l'invitation dans l'application (lien ci-dessus), ou allez dans **Réglages > Khatm en
    groupe** et saisissez le code.
@@ -34,7 +33,7 @@ plusieurs juz, et le groupe termine le khatm ensemble.
 
 <div dir="rtl" markdown="1">
 
-دعاك أحدهم إلى قراءة القرآن معًا في تطبيق **خطة الحفظ**: يأخذ كل عضو جزءًا أو أكثر، وتختم المجموعة
+دعاك أحدهم إلى قراءة القرآن معًا في تطبيق **وِرد**: يأخذ كل عضو جزءًا أو أكثر، وتختم المجموعة
 معًا.
 
 1. ثبّت التطبيق من
