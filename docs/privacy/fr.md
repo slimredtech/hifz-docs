@@ -34,6 +34,7 @@ SDK d'analyse ou de publicité dans l'application.
 | Nom affiché (facultatif)                    | Un nom que vous pouvez choisir pour vos enseignants et partenaires (40 caractères au plus)                                                                                                                                               | Visible uniquement par les personnes liées                                                     |
 | Liens enseignant et partenaire (facultatif) | Avec qui vous êtes lié, codes d'invitation, objectifs de la semaine (pages et une note de 140 caractères au plus)                                                                                                                        | Mode enseignant et partenaire de motivation                                                    |
 | Khatm en groupe (facultatif)                | Les groupes que vous créez ou rejoignez (un nom de groupe de 40 caractères au plus, son code), et les juz pris et lus                                                                                                                    | Lire le Coran ensemble                                                                         |
+| Jeton de notification (khatm en groupe)     | Si vous êtes dans un khatm en groupe et autorisez les notifications : le jeton Firebase de ce téléphone et la langue de l'application                                                                                                    | Vous prévenir quand un membre lit un juz ou rejoint le groupe, et quand le khatm est terminé   |
 | Statut Premium                              | Premium actif ou non, le produit et sa date d'expiration                                                                                                                                                                                 | Débloquer les fonctions Premium                                                                |
 
 **Restent uniquement sur votre téléphone :** la ville ou les coordonnées choisies pour les
@@ -95,7 +96,8 @@ Politiques de confidentialité : Tarteel <https://tarteel.ai/privacy>, QuranicAu
   groupe vous en retire.
 - **Les prestataires** qui traitent les données pour nous : Supabase (base de données et
   connexion, serveurs en Irlande, Union européenne), RevenueCat (statut des achats) et Google
-  (connexion et paiements). Ils ne peuvent les utiliser que pour nous fournir leur service.
+  (connexion, paiements, et Firebase Cloud Messaging, qui transmet les notifications du khatm en
+  groupe). Ils ne peuvent les utiliser que pour nous fournir leur service.
 - Les autorités, uniquement si la loi l'exige.
 
 Nous ne **vendons pas** vos données, ne les partageons pas à des fins publicitaires et ne créons
