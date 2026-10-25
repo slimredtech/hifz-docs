@@ -33,6 +33,7 @@ advertising SDK in the app.
 | Display name (optional)              | A name you may choose for teachers and partners (40 characters at most)                                                                                                                                                       | Shown only to people you link with                                                      |
 | Teacher and partner links (optional) | Who you are linked with, invite codes, weekly assignments (pages and a note of up to 140 characters)                                                                                                                          | Teacher mode and accountability partner                                                 |
 | Group khatm (optional)               | The groups you create or join (a group name of up to 40 characters, its code), and which juz you took and read                                                                                                                | To read the Quran together                                                              |
+| Notification token (group khatm)     | If you are in a group khatm and allow notifications: this phone's Firebase notification token and the app's language                                                                                                          | To tell you when a member reads a juz or joins, and when the khatm is complete          |
 | Premium status                       | Whether Premium is active, the product and its expiry date                                                                                                                                                                    | To unlock Premium features                                                              |
 
 **Stays on your phone only:** the city or coordinates you choose for prayer times and reminders,
@@ -89,8 +90,9 @@ recitations. Privacy policies: Tarteel <https://tarteel.ai/privacy>, QuranicAudi
   and read each juz, and the members' display names. Never anything else. Leaving the group
   removes you from it.
 - **Service providers** that process data for us: Supabase (database and sign-in, servers in Ireland,
-  European Union), RevenueCat (purchase status) and Google (sign-in and payments). They may use it
-  only to provide their service to us.
+  European Union), RevenueCat (purchase status) and Google (sign-in, payments, and Firebase Cloud
+  Messaging, which delivers group khatm notifications). They may use it only to provide their
+  service to us.
 - Authorities, only if the law requires it.
 
 We do **not** sell your data, share it for advertising, or use it to build advertising profiles.
