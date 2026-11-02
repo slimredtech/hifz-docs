@@ -8,7 +8,7 @@ lang: en
 
 **English** · [Français](fr/) · [العربية](ar/)
 
-_Last updated: 25 October 2026_
+_Last updated: 27 October 2026_
 
 Wird ("وِرد", formerly Hifz Planner, "the app") is a daily companion for Muslims: Quran
 memorization and revision, prayer times, adhkar, the mushaf, Ramadan and group khatm. It is
@@ -58,25 +58,26 @@ Payments are handled entirely by **Google Play**; we never see your card details
 purchase history (product, dates, price, country/currency). See RevenueCat's privacy policy:
 <https://www.revenuecat.com/privacy>.
 
-### Mushaf pages (GitHub)
+### Mushaf pages (Tarteel)
 
-The pages of the mushaf are downloaded from **GitHub**, which hosts a public copy of the page
-fonts, when you choose to download them or the first time you open a page. Like any website, GitHub
-receives your IP address and the name of the file requested. The app sends nothing else: no account
-identifier and no personal data. See GitHub's privacy statement:
-<https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement>.
+The pages of the mushaf (their fonts) are downloaded from **Tarteel**'s Quranic Universal Library
+(`static-cdn.tarteel.ai`), when you choose to download them or the first time you open a page. Like
+any website, Tarteel receives your IP address and the name of the file requested. The app sends
+nothing else: no account identifier and no personal data. Tarteel's privacy policy:
+<https://tarteel.ai/privacy>.
 
-### Quran recitations (Tarteel, QuranicAudio and EveryAyah)
+### Quran recitations (Tarteel, QuranicAudio, mp3quran.net and EveryAyah)
 
 When you listen to a recitation in the reader, or download one to listen offline, the audio comes
 from the servers that publish it: **Tarteel** (`audio-cdn.tarteel.ai`, for Mahmoud Khalil Al-Husary
 and Mishary Rashid Alafasy), **QuranicAudio** (`download.quranicaudio.com`, for Maher
-Al-Muaiqly) and **EveryAyah** (`everyayah.com`, for the Warsh recitations of Yassin Al-Jazaery and
-Ibrahim Al-Dosary). Like any website, they receive your IP address and the name of the file requested.
+Al-Muaiqly), **mp3quran.net** (`cdn.mp3quran.net`, for the other reciters) and **EveryAyah**
+(`everyayah.com`, for the Warsh recitation of Ibrahim Al-Dosary). Like any website, they receive your IP address and the name of the file requested.
 The app sends nothing else: no account identifier and no personal data. Downloaded recitations stay
 on your phone and are not included in your backups; you can remove them in Settings > Offline
 recitations. Privacy policies: Tarteel <https://tarteel.ai/privacy>, QuranicAudio
-<https://quranicaudio.com/privacy.html>; EveryAyah does not publish one.
+<https://quranicaudio.com/privacy.html>, mp3quran.net <https://www.mp3quran.net/eng/privacy>;
+EveryAyah does not publish one.
 
 ## 2. Who can see your data
 
