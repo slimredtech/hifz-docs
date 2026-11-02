@@ -8,7 +8,7 @@ lang: fr
 
 [English](../) · **Français** · [العربية](../ar/)
 
-_Dernière mise à jour : 25 octobre 2026_
+_Dernière mise à jour : 27 octobre 2026_
 
 Wird (« وِرد », anciennement Hifz Planner, « l'application ») est un compagnon quotidien pour
 les musulmans : mémorisation et révision du Coran, horaires de prière, adhkar, mushaf, Ramadan et
@@ -61,26 +61,28 @@ bancaires. Nous utilisons **RevenueCat** pour vérifier vos achats. Il reçoit v
 compte aléatoire et votre historique d'achats (produit, dates, prix, pays/devise). Politique de
 RevenueCat : <https://www.revenuecat.com/privacy>.
 
-### Pages du mushaf (GitHub)
+### Pages du mushaf (Tarteel)
 
-Les pages du mushaf sont téléchargées depuis **GitHub**, qui héberge une copie publique des polices
-des pages, quand vous choisissez de les télécharger ou la première fois que vous ouvrez une page.
-Comme tout site web, GitHub reçoit votre adresse IP et le nom du fichier demandé. L'application
-n'envoie rien d'autre : ni identifiant de compte, ni donnée personnelle. Déclaration de
-confidentialité de GitHub : <https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement>.
+Les pages du mushaf (leurs polices) sont téléchargées depuis la Quranic Universal Library de
+**Tarteel** (`static-cdn.tarteel.ai`), quand vous choisissez de les télécharger ou la première fois
+que vous ouvrez une page. Comme tout site web, Tarteel reçoit votre adresse IP et le nom du fichier
+demandé. L'application n'envoie rien d'autre : ni identifiant de compte, ni donnée personnelle.
+Politique de confidentialité de Tarteel : <https://tarteel.ai/privacy>.
 
-### Récitations du Coran (Tarteel, QuranicAudio et EveryAyah)
+### Récitations du Coran (Tarteel, QuranicAudio, mp3quran.net et EveryAyah)
 
 Quand vous écoutez une récitation dans le lecteur, ou que vous la téléchargez pour l'écouter hors
 ligne, l'audio provient des serveurs qui la publient : **Tarteel** (`audio-cdn.tarteel.ai`, pour
 Mahmoud Khalil Al-Husary et Mishary Rashid Alafasy), **QuranicAudio**
-(`download.quranicaudio.com`, pour Maher Al-Muaiqly) et **EveryAyah** (`everyayah.com`, pour les
-récitations en Warsh de Yassin Al-Jazaery et Ibrahim Al-Dosary). Comme tout site web, ils reçoivent votre
+(`download.quranicaudio.com`, pour Maher Al-Muaiqly), **mp3quran.net** (`cdn.mp3quran.net`, pour les
+autres récitants) et **EveryAyah** (`everyayah.com`, pour la récitation en Warsh d'Ibrahim
+Al-Dosary). Comme tout site web, ils reçoivent votre
 adresse IP et le nom du fichier demandé. L'application n'envoie rien d'autre : ni identifiant de
 compte, ni donnée personnelle. Les récitations téléchargées restent sur votre téléphone et ne font
 pas partie de vos sauvegardes ; vous pouvez les supprimer dans Paramètres > Récitations hors ligne.
 Politiques de confidentialité : Tarteel <https://tarteel.ai/privacy>, QuranicAudio
-<https://quranicaudio.com/privacy.html> ; EveryAyah n'en publie pas.
+<https://quranicaudio.com/privacy.html>, mp3quran.net <https://www.mp3quran.net/eng/privacy> ;
+EveryAyah n'en publie pas.
 
 ## 2. Qui peut voir vos données
 
