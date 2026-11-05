@@ -8,4 +8,5 @@ A daily Muslim companion for Android: Quran memorization and revision, prayer ti
 mushaf, Ramadan and group khatm. Formerly Hifz Planner.
 
 - Privacy policy: [English](privacy/) · [Français](privacy/fr/) · [العربية](privacy/ar/)
+- Terms of service: [English](terms/) · [Français](terms/fr/) · [العربية](terms/ar/)
 - [Delete your account and data](delete-account/)
